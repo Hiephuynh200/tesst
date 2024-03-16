@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>bỏ trống ô input</description>
+   <name>DKU02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d36f0395-6bc9-4e89-869b-50806ef3780f</testCaseGuid>
+</TestCaseEntity>
